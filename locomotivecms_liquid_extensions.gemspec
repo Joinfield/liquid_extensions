@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.name        = 'locomotivecms_liquid_extensions'
   s.version     = Locomotive::LiquidExtensions::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ['Didier Lafforgue']
-  s.email       = ['did@locomotivecms.com']
+  s.authors     = ['Didier Lafforgue', 'Markus Roth']
+  s.email       = ['did@locomotivecms.com', 'mr@mediatrooper.de']
   s.homepage    = 'http://www.locomotivecms.com'
   s.summary     = 'LocomotiveCMS Liquid Extensions'
   s.description = 'Extra liquid tags, filters for LocomotiveCMS'
